@@ -44,12 +44,20 @@ public class CreateAccounts extends Common{
 
 	@FindBy(id = "lastname")
 	public WebElement lastName;
+	@FindBy(id = "company")
+	public WebElement company;
+	//id="company" city id_state postcode
 	@FindBy(id="address1")
 	public WebElement addressFirst;
 	
 	@FindBy(id="address2")
 	public WebElement addressSecond;
-	
+	@FindBy(id = "city")
+	public WebElement city;
+	@FindBy(id = "id_state")
+	public WebElement state;
+	@FindBy(id = "postcode")
+	public WebElement zipcode;
 	@FindBy(id="id_country")
 	public WebElement countryId;
 	@FindBy(id="other")
@@ -79,13 +87,17 @@ public class CreateAccounts extends Common{
 
 	}
 	@Step("Fill all the inputs using valid Address Information")
-	public void  RegistrationPartTwo(String AfirstName,String AlastName, String AddOne,String AddTwo
-			,String Icountry,String Others,String pNum, String mpNum,String Alias) {
+	public void  RegistrationPartTwo(String AfirstName,String AlastName,String Company, String AddOne,String AddTwo,String City,String State,String Zipcode,
+			String Icountry,String Others,String pNum, String mpNum,String Alias) {
 		sendText(firstName,AfirstName);
 		sendText(lastName,AlastName);
+		sendText(company, Company);
 		sendText(addressFirst,AddOne);
 		sendText(addressSecond,AddTwo);
-		sendText(countryId,Icountry);
+		sendText(city,City);
+		selectitem(state,State);
+		sendText(zipcode,Zipcode);
+		selectitem(countryId,Icountry);
 		sendText(Other,Others);
 		sendText(phone,pNum);
 		sendText(phoneMobile,mpNum);

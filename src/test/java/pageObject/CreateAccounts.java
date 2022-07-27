@@ -9,6 +9,9 @@ import baseDriver.PageDriver;
 import io.qameta.allure.Step;
 import utilities.Common;
 import utilities.ScreenShots;
+/*************
+ * This part belongs to Accounts Creation
+ * ************/
 
 public class CreateAccounts extends Common{
 	public CreateAccounts() {
@@ -16,7 +19,9 @@ public class CreateAccounts extends Common{
 		// into the getcurrentdriver
 		PageFactory.initElements(PageDriver.getCurrentDriver(), this);
 	}
-
+	/*************
+	 * This part belongs to Locators
+	 * ************/
 	@FindBy(id = "id_gender1")
 	public WebElement mrTitle;
 	@FindBy(id = "id_gender2")
@@ -71,6 +76,9 @@ public class CreateAccounts extends Common{
 	
 	@FindBy(id="submitAccount")
 	public WebElement submitButton;
+	/*************
+	 * This part belongs to Accounts Creation Process
+	 * ************/
 	@Step("Fill all the inputs using valid personal information")
 	public void RegistrationPartOne(String firstName,String lastName,String Password,
 			String day, String month,String year ) {

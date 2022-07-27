@@ -1,5 +1,6 @@
 package baseDriver;
 
+import io.qameta.allure.Step;
 import org.testng.annotations.AfterMethod;
 import java.time.Duration;
 
@@ -42,7 +43,8 @@ public class MainDriver {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		PageDriver.getInstance().setDriver(driver);
 	}
-	
+
+	@Step("Quit Process")
 	@AfterMethod
 	@AfterSuite 
 	public void tearDown() {

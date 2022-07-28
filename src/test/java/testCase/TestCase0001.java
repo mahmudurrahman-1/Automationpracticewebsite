@@ -47,7 +47,7 @@ public class TestCase0001 extends MainDriver {
 
         //Take screenshot for profile
         ScreenShots.screenshotForAllure("Account is created");
-        //signout from account
+        //Signout from account
         profile.signoutbutton();
 
 

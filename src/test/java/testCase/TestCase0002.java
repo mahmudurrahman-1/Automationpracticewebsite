@@ -53,7 +53,9 @@ public class TestCase0002 extends MainDriver {
          * This part belongs to payment
          * ************/
         payment.proceedClick();
+        //adding blue dress to cart
         payment.Cproceed();
+        //Here confirmation is done
         payment.Cpayment();
 
 

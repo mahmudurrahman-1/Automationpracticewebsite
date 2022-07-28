@@ -24,7 +24,7 @@ public class CartPage extends Common {
     public WebElement cartButton;
     @FindBy(xpath = "//span[@title='Continue shopping']//span[1]")
     public WebElement continueShop;
-    @FindBy(css = "title=['Proceed to checkout']")
+    @FindBy(css = "a[title='Proceed to checkout']")
     public WebElement proceedShop;
     @FindBy(id = "color_2")
     public WebElement blueButton;

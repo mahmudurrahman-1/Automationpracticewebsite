@@ -20,7 +20,7 @@ public class MainDriver {
 
 	@BeforeSuite //it runs before all the test starts executing
 	public void setup() {
-		String browser = System.getProperty("Browser","chrome");
+		String browser = System.getProperty("Browser","firefox");
 		if(browser.contains("opera")) {
 			//setup operabrowser
 			WebDriverManager.operadriver().setup();	

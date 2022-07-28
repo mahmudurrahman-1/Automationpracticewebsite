@@ -54,8 +54,8 @@ public class TestCase0002 extends MainDriver {
          * ************/
         payment.proceedClick();
         payment.Cproceed();
-        payment.waitForPageLoad();
-        payment.Cproceed();
+        cart.waitForPageLoad();
+        cart.Pshopping();
 
 
 

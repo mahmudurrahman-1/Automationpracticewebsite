@@ -23,8 +23,13 @@ public class Payment extends Common {
     public WebElement centerScroll;
     @FindBy(css = "a[title='Proceed to checkout']")
     public WebElement proceedShop;
+    @FindBy(className ="standard-checkout" )
+    public WebElement confirm;
+
     @FindBy(css = "button[name='Submit']")
     public WebElement submit;
+    @FindBy(className="cart_navigation")
+    public WebElement cartnavigation;
     /*************
      * This part belongs to Scrolling and further payment process
      * ************/
@@ -37,5 +42,10 @@ public class Payment extends Common {
     @Step("Click to continue proceed")
     public void Cproceed(){
         proceedShop.click();
+    }
+    @Step("Confirm payment")
+    public void Cpayment(){
+        scrollToElement(cartnavigation);
+        confirm.click();
     }
 }

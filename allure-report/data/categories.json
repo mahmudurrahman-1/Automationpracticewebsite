@@ -1,0 +1,198 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#id_gender1\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [92f2d5def482f7a871f5d6d1b4ab071e, findElement {using=id, value=id_gender1}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:53313}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53313/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 92f2d5def482f7a871f5d6d1b4ab071e",
+      "children" : [ {
+        "name" : "Perform registration process for new users and Sign Out",
+        "uid" : "3a7cd6319a313532",
+        "parentUid" : "212bff7676b21bad60dafefe17a24454",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658681907750,
+          "stop" : 1658681923469,
+          "duration" : 15719
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ "mahmudurrahman.sqa@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+      } ],
+      "uid" : "212bff7676b21bad60dafefe17a24454"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#id_gender1\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [f384aa5add25ae2d5dbea734f5a289f2, findElement {using=id, value=id_gender1}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:53596}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53596/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f384aa5add25ae2d5dbea734f5a289f2",
+      "children" : [ {
+        "name" : "Perform registration process for new users and Sign Out",
+        "uid" : "4939f765f9213707",
+        "parentUid" : "4d024464d2c51971e1a2fb04be19c861",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658683029068,
+          "stop" : 1658683043446,
+          "duration" : 14378
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ "mahmudurrahman887@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+      } ],
+      "uid" : "4d024464d2c51971e1a2fb04be19c861"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Signout\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6d89d7eadfb98f0e99e8f4f8dad41e37, findElement {using=link text, value=Signout}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:53649}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53649/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6d89d7eadfb98f0e99e8f4f8dad41e37",
+      "children" : [ {
+        "name" : "Perform registration process for new users and Sign Out",
+        "uid" : "87f1d0c125b3c6b6",
+        "parentUid" : "b3e9755d024c149babc7ad01a812c789",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658683093116,
+          "stop" : 1658683123645,
+          "duration" : 30529
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "mahmudurrahman87@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+      } ],
+      "uid" : "b3e9755d024c149babc7ad01a812c789"
+    }, {
+      "name" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, findElement {using=css selector, value=a[title='Log in to your customer account']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:54606}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54606/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}",
+      "children" : [ {
+        "name" : "Perform registration process for new users and Sign Out",
+        "uid" : "fae44f1a333ccafb",
+        "parentUid" : "6211fde438141563df9074beab81cd17",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658684420799,
+          "stop" : 1658684420845,
+          "duration" : 46
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "mahmudurrahman@gmail.com", "Jawad", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "Ahmed", "mahmudur@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+      } ],
+      "uid" : "6211fde438141563df9074beab81cd17"
+    }, {
+      "name" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, findElement {using=css selector, value=a[title='Log in to your customer account']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:50891}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50891/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}",
+      "children" : [ {
+        "name" : "Perform registration process for new users and Sign Out",
+        "uid" : "1be98fb27ffbcee8",
+        "parentUid" : "f7774ad4783b44b56133f8bedbb9e369",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658727852217,
+          "stop" : 1658727852263,
+          "duration" : 46
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ "mahmudurrahman1111@gmail.com", "Jawad", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "Ahmed", "mahmudur@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+      } ],
+      "uid" : "f7774ad4783b44b56133f8bedbb9e369"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#id_gender1\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [125fd3b028a2c65192d9c46d360e24c4, findElement {using=id, value=id_gender1}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:51538}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51538/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 125fd3b028a2c65192d9c46d360e24c4",
+      "children" : [ {
+        "name" : "Perform registration process for new users and Sign Out",
+        "uid" : "859380abefad787f",
+        "parentUid" : "2cc3e51572122e122337fc73a46a007c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658729060306,
+          "stop" : 1658729081040,
+          "duration" : 20734
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ "mahmudurraahman84550@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+      } ],
+      "uid" : "2cc3e51572122e122337fc73a46a007c"
+    }, {
+      "name" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, findElement {using=css selector, value=a[title='Log in to your customer account']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:51538}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51538/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}",
+      "children" : [ {
+        "name" : "Sign in into account and take necessary actions",
+        "uid" : "64ec12ba772d0694",
+        "parentUid" : "48da4098e475f33d4b1bec96137aea82",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658729083958,
+          "stop" : 1658729083973,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "mahmudurrahman.sqa@gmail.com", "jawad@123444" ]
+      } ],
+      "uid" : "48da4098e475f33d4b1bec96137aea82"
+    }, {
+      "name" : "unknown error: cannot determine loading status\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [46cb51800b2ce91b2ff9e7ff47569b72, get {url=http://automationpractice.com/index.php}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:50216}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50216/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 46cb51800b2ce91b2ff9e7ff47569b72",
+      "children" : [ {
+        "name" : "setup",
+        "uid" : "99a82f7b807f93c8",
+        "parentUid" : "4f4dd69b6fac301edc1b53e7e6ba527c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658985702984,
+          "stop" : 1658985703004,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f4dd69b6fac301edc1b53e7e6ba527c"
+    }, {
+      "name" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, findElement {using=css selector, value=a[title='Log in to your customer account']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:52638}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52638/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}",
+      "children" : [ {
+        "name" : "Perform registration process for new users and Sign Out",
+        "uid" : "7ddab609c020d443",
+        "parentUid" : "c0b76eff63c388543e84fd5357e07cf7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658989558477,
+          "stop" : 1658989558498,
+          "duration" : 21
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "mahmudurraahman0000@gmail.com", "mahmudur", "aback panalia road", "front jasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "ServicEngineltd." ]
+      } ],
+      "uid" : "c0b76eff63c388543e84fd5357e07cf7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

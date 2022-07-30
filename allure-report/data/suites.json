@@ -1,0 +1,360 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "Automation",
+      "children" : [ {
+        "name" : "testCase.TestCase0001",
+        "children" : [ {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "3a7cd6319a313532",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658681907750,
+            "stop" : 1658681923469,
+            "duration" : 15719
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : true,
+          "parameters" : [ "mahmudurrahman.sqa@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "4939f765f9213707",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658683029068,
+            "stop" : 1658683043446,
+            "duration" : 14378
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : true,
+          "parameters" : [ "mahmudurrahman887@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "87f1d0c125b3c6b6",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658683093116,
+            "stop" : 1658683123645,
+            "duration" : 30529
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurrahman87@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "3128b5a170a76556",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658683497119,
+            "stop" : 1658683533461,
+            "duration" : 36342
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurrahman897@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "3a12fe104073f535",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658684397023,
+            "stop" : 1658684418636,
+            "duration" : 21613
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurraahman897@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "fae44f1a333ccafb",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658684420799,
+            "stop" : 1658684420845,
+            "duration" : 46
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 5,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurrahman@gmail.com", "Jawad", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "Ahmed", "mahmudur@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "b60f1983afb82a34",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658684545938,
+            "stop" : 1658684573902,
+            "duration" : 27964
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurraahman8900@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "bafd3579d9b341d0",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658726738175,
+            "stop" : 1658726762256,
+            "duration" : 24081
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : true,
+          "parameters" : [ "mahmudurraahman8450@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "ec1d830782314635",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658727206960,
+            "stop" : 1658727225087,
+            "duration" : 18127
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudur8870@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "dc0fcffa9bfc1e4",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658727809646,
+            "stop" : 1658727850975,
+            "duration" : 41329
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurraahman84r50@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "1be98fb27ffbcee8",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658727852217,
+            "stop" : 1658727852263,
+            "duration" : 46
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 4,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurrahman1111@gmail.com", "Jawad", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "Ahmed", "mahmudur@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "58436d623837bf36",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658989529452,
+            "stop" : 1658989555125,
+            "duration" : 25673
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurraahman0010@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "7ddab609c020d443",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658989558477,
+            "stop" : 1658989558498,
+            "duration" : 21
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurraahman0000@gmail.com", "mahmudur", "aback panalia road", "front jasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "ServicEngineltd." ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "615f9592830471ba",
+          "parentUid" : "74f3da85f5ea4025c6881fe53061fe12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658989727763,
+            "stop" : 1658989750183,
+            "duration" : 22420
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurraahman00110@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        } ],
+        "uid" : "74f3da85f5ea4025c6881fe53061fe12"
+      }, {
+        "name" : "testCase.TestCase0002",
+        "children" : [ {
+          "name" : "setup",
+          "uid" : "99a82f7b807f93c8",
+          "parentUid" : "35746dab3ad1cd5876aa67847a406170",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658985702984,
+            "stop" : 1658985703004,
+            "duration" : 20
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Sign in into account and take necessary actions",
+          "uid" : "6d6402234b5bacd0",
+          "parentUid" : "35746dab3ad1cd5876aa67847a406170",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658988652836,
+            "stop" : 1658988739113,
+            "duration" : 86277
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 51,
+          "retriesStatusChange" : true,
+          "parameters" : [ "mahmudurraahman00@gmail.com", "jawad@123444" ]
+        } ],
+        "uid" : "35746dab3ad1cd5876aa67847a406170"
+      } ],
+      "uid" : "92aa86c192a7cd00bd450f30fdc44419"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  }, {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "C:/Users/HP/IdeaProjects/Automation",
+      "children" : [ {
+        "name" : "testCase.TestCase0001",
+        "children" : [ {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "859380abefad787f",
+          "parentUid" : "d5f9f17fe74bddedf277b9c8afb494c3",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658729060306,
+            "stop" : 1658729081040,
+            "duration" : 20734
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : true,
+          "parameters" : [ "mahmudurraahman84550@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        }, {
+          "name" : "Perform registration process for new users and Sign Out",
+          "uid" : "3e116f3c6606a973",
+          "parentUid" : "d5f9f17fe74bddedf277b9c8afb494c3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658729193093,
+            "stop" : 1658729228339,
+            "duration" : 35246
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurraahman00@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+        } ],
+        "uid" : "d5f9f17fe74bddedf277b9c8afb494c3"
+      }, {
+        "name" : "testCase.TestCase0002",
+        "children" : [ {
+          "name" : "Sign in into account and take necessary actions",
+          "uid" : "64ec12ba772d0694",
+          "parentUid" : "c83739b1c0de603a15251f285e9dee6d",
+          "status" : "broken",
+          "time" : {
+            "start" : 1658729083958,
+            "stop" : 1658729083973,
+            "duration" : 15
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "mahmudurrahman.sqa@gmail.com", "jawad@123444" ]
+        } ],
+        "uid" : "c83739b1c0de603a15251f285e9dee6d"
+      } ],
+      "uid" : "66fb62b9525147c3d2cb8824a8352813"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ]
+}

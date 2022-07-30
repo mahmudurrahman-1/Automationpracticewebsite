@@ -1,0 +1,118 @@
+{
+  "uid" : "c6dc59bb1732f163",
+  "name" : "Sign in into account and take necessary actions",
+  "fullName" : "testCase.TestCase0002.SignIn",
+  "historyId" : "4f5f22c28839eca8264b7339446aed69",
+  "time" : {
+    "start" : 1658729798320,
+    "stop" : 1658729834823,
+    "duration" : 36503
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1658729773442,
+      "stop" : 1658729797424,
+      "duration" : 23982
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1658729834956,
+      "stop" : 1658729837030,
+      "duration" : 2074
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1658729837077,
+      "stop" : 1658729837077,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCase.TestCase0002"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase.TestCase0002"
+  }, {
+    "name" : "testMethod",
+    "value" : "SignIn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCase.TestCase0002"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-C4C8A1FN"
+  }, {
+    "name" : "thread",
+    "value" : "8736@LAPTOP-C4C8A1FN.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "mahmudurraahman00@gmail.com"
+  }, {
+    "name" : "arg1",
+    "value" : "jawad@123444"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6dc59bb1732f163.json",
+  "parameterValues" : [ "mahmudurraahman00@gmail.com", "jawad@123444" ]
+}

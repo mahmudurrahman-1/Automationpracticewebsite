@@ -1,0 +1,191 @@
+[ {
+  "uid" : "b60f1983afb82a34",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658684545938,
+    "stop" : 1658684573902,
+    "duration" : 27964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec1d830782314635",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658727206960,
+    "stop" : 1658727225087,
+    "duration" : 18127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "615f9592830471ba",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658989727763,
+    "stop" : 1658989750183,
+    "duration" : 22420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d6402234b5bacd0",
+  "name" : "Sign in into account and take necessary actions",
+  "time" : {
+    "start" : 1658988652836,
+    "stop" : 1658988739113,
+    "duration" : 86277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64ec12ba772d0694",
+  "name" : "Sign in into account and take necessary actions",
+  "time" : {
+    "start" : 1658729083958,
+    "stop" : 1658729083973,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bafd3579d9b341d0",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658726738175,
+    "stop" : 1658726762256,
+    "duration" : 24081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4939f765f9213707",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658683029068,
+    "stop" : 1658683043446,
+    "duration" : 14378
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7ddab609c020d443",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658989558477,
+    "stop" : 1658989558498,
+    "duration" : 21
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "58436d623837bf36",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658989529452,
+    "stop" : 1658989555125,
+    "duration" : 25673
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a7cd6319a313532",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658681907750,
+    "stop" : 1658681923469,
+    "duration" : 15719
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3a12fe104073f535",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658684397023,
+    "stop" : 1658684418636,
+    "duration" : 21613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3128b5a170a76556",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658683497119,
+    "stop" : 1658683533461,
+    "duration" : 36342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fae44f1a333ccafb",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658684420799,
+    "stop" : 1658684420845,
+    "duration" : 46
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "99a82f7b807f93c8",
+  "name" : "setup",
+  "time" : {
+    "start" : 1658985702984,
+    "stop" : 1658985703004,
+    "duration" : 20
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3e116f3c6606a973",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658729193093,
+    "stop" : 1658729228339,
+    "duration" : 35246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc0fcffa9bfc1e4",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658727809646,
+    "stop" : 1658727850975,
+    "duration" : 41329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "859380abefad787f",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658729060306,
+    "stop" : 1658729081040,
+    "duration" : 20734
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "87f1d0c125b3c6b6",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658683093116,
+    "stop" : 1658683123645,
+    "duration" : 30529
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1be98fb27ffbcee8",
+  "name" : "Perform registration process for new users and Sign Out",
+  "time" : {
+    "start" : 1658727852217,
+    "stop" : 1658727852263,
+    "duration" : 46
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,214 @@
+{
+  "uid" : "bafd3579d9b341d0",
+  "name" : "Perform registration process for new users and Sign Out",
+  "fullName" : "testCase.TestCase0001.registration",
+  "historyId" : "2e7ea5eff6bf7eb15491510412904b1a",
+  "time" : {
+    "start" : 1658726738175,
+    "stop" : 1658726762256,
+    "duration" : 24081
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1658726722640,
+      "stop" : 1658726737943,
+      "duration" : 15303
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f133a6e2e16679f0",
+      "name" : "Personal Info",
+      "source" : "f133a6e2e16679f0.png",
+      "type" : "image/png",
+      "size" : 46166
+    }, {
+      "uid" : "490173d1368b886b",
+      "name" : "Address Info",
+      "source" : "490173d1368b886b.png",
+      "type" : "image/png",
+      "size" : 59938
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1658726762456,
+      "stop" : 1658726765944,
+      "duration" : 3488
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1658726766105,
+      "stop" : 1658726766105,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCase.TestCase0001"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase.TestCase0001"
+  }, {
+    "name" : "testMethod",
+    "value" : "registration"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCase.TestCase0001"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-C4C8A1FN"
+  }, {
+    "name" : "thread",
+    "value" : "15556@LAPTOP-C4C8A1FN.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "mahmudurraahman8450@gmail.com"
+  }, {
+    "name" : "arg1",
+    "value" : "mahmudur"
+  }, {
+    "name" : "arg10",
+    "value" : "front panasulia road"
+  }, {
+    "name" : "arg11",
+    "value" : "back janasulia road"
+  }, {
+    "name" : "arg12",
+    "value" : "Dhaka"
+  }, {
+    "name" : "arg13",
+    "value" : "7"
+  }, {
+    "name" : "arg14",
+    "value" : "42510"
+  }, {
+    "name" : "arg15",
+    "value" : "21"
+  }, {
+    "name" : "arg16",
+    "value" : "bla bla bla"
+  }, {
+    "name" : "arg17",
+    "value" : "125-365-9984"
+  }, {
+    "name" : "arg18",
+    "value" : "253-212-2000"
+  }, {
+    "name" : "arg19",
+    "value" : "BigBloom"
+  }, {
+    "name" : "arg2",
+    "value" : "rahman"
+  }, {
+    "name" : "arg3",
+    "value" : "jawad@123444"
+  }, {
+    "name" : "arg4",
+    "value" : "12"
+  }, {
+    "name" : "arg5",
+    "value" : "5"
+  }, {
+    "name" : "arg6",
+    "value" : "1996"
+  }, {
+    "name" : "arg7",
+    "value" : "jawad"
+  }, {
+    "name" : "arg8",
+    "value" : "ahmed"
+  }, {
+    "name" : "arg9",
+    "value" : "Sebpo"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8fe06515e0004e63",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e289b487c749892112a407ebf465ca91, findElement {using=css selector, value=a[title='Log in to your customer account']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:50128}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50128/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e289b487c749892112a407ebf465ca91",
+      "time" : {
+        "start" : 1658726255075,
+        "stop" : 1658726255190,
+        "duration" : 115
+      }
+    }, {
+      "uid" : "9b81d6bae09a1a62",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '4.3.0', revision: 'a4995e2c09*'\nSystem info: host: 'LAPTOP-C4C8A1FN', ip: '192.168.43.27', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [48f4213a381e016706e4299354b671f1, findElement {using=css selector, value=a[title='Log in to your customer account']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\HP\\AppData\\Local\\T...}, goog:chromeOptions: {debuggerAddress: localhost:50077}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50077/devtoo..., se:cdpVersion: 103.0.5060.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 48f4213a381e016706e4299354b671f1",
+      "time" : {
+        "start" : 1658726253102,
+        "stop" : 1658726253221,
+        "duration" : 119
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bafd3579d9b341d0.json",
+  "parameterValues" : [ "mahmudurraahman8450@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+}

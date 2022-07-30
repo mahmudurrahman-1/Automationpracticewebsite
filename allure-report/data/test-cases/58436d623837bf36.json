@@ -1,0 +1,202 @@
+{
+  "uid" : "58436d623837bf36",
+  "name" : "Perform registration process for new users and Sign Out",
+  "fullName" : "testCase.TestCase0001.registration",
+  "historyId" : "55116f6075bf9d1be37b03c485a4d414",
+  "time" : {
+    "start" : 1658989529452,
+    "stop" : 1658989555125,
+    "duration" : 25673
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1658989510873,
+      "stop" : 1658989529251,
+      "duration" : 18378
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2871b6e7a93dd5d3",
+      "name" : "Personal Info",
+      "source" : "2871b6e7a93dd5d3.png",
+      "type" : "image/png",
+      "size" : 45995
+    }, {
+      "uid" : "aa30ca95101942ac",
+      "name" : "Address Info",
+      "source" : "aa30ca95101942ac.png",
+      "type" : "image/png",
+      "size" : 59884
+    }, {
+      "uid" : "de0d00166b40d6a8",
+      "name" : "Account is created",
+      "source" : "de0d00166b40d6a8.png",
+      "type" : "image/png",
+      "size" : 165232
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1658989555326,
+      "stop" : 1658989558443,
+      "duration" : 3117
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1658989558587,
+      "stop" : 1658989558587,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCase.TestCase0001"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase.TestCase0001"
+  }, {
+    "name" : "testMethod",
+    "value" : "registration"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCase.TestCase0001"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-C4C8A1FN"
+  }, {
+    "name" : "thread",
+    "value" : "3408@LAPTOP-C4C8A1FN.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "mahmudurraahman0010@gmail.com"
+  }, {
+    "name" : "arg1",
+    "value" : "mahmudur"
+  }, {
+    "name" : "arg10",
+    "value" : "front panasulia road"
+  }, {
+    "name" : "arg11",
+    "value" : "back janasulia road"
+  }, {
+    "name" : "arg12",
+    "value" : "Dhaka"
+  }, {
+    "name" : "arg13",
+    "value" : "7"
+  }, {
+    "name" : "arg14",
+    "value" : "42510"
+  }, {
+    "name" : "arg15",
+    "value" : "21"
+  }, {
+    "name" : "arg16",
+    "value" : "bla bla bla"
+  }, {
+    "name" : "arg17",
+    "value" : "125-365-9984"
+  }, {
+    "name" : "arg18",
+    "value" : "253-212-2000"
+  }, {
+    "name" : "arg19",
+    "value" : "BigBloom"
+  }, {
+    "name" : "arg2",
+    "value" : "rahman"
+  }, {
+    "name" : "arg3",
+    "value" : "jawad@123444"
+  }, {
+    "name" : "arg4",
+    "value" : "12"
+  }, {
+    "name" : "arg5",
+    "value" : "5"
+  }, {
+    "name" : "arg6",
+    "value" : "1996"
+  }, {
+    "name" : "arg7",
+    "value" : "jawad"
+  }, {
+    "name" : "arg8",
+    "value" : "ahmed"
+  }, {
+    "name" : "arg9",
+    "value" : "Sebpo"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58436d623837bf36.json",
+  "parameterValues" : [ "mahmudurraahman0010@gmail.com", "mahmudur", "front panasulia road", "back janasulia road", "Dhaka", "7", "42510", "21", "bla bla bla", "125-365-9984", "253-212-2000", "BigBloom", "rahman", "jawad@123444", "12", "5", "1996", "jawad", "ahmed", "Sebpo" ]
+}
